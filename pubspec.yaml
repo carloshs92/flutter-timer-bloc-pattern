@@ -1,0 +1,21 @@
+name: flutter_timer_bloc
+description: Flutter Timer with Pattern Block
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.1.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_bloc: ^0.15.0
+  equatable: ^0.2.0
+  wave: ^0.0.8
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
